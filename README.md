@@ -27,6 +27,9 @@ I test it on random images of validation set whenever I run the testing code whi
 
 Model predicted the result in text and then I convert this text into Speach
 
+![txt to speach](https://user-images.githubusercontent.com/38391132/64078464-88c1ce80-ccf4-11e9-959d-a979bc551f41.PNG)
+
+
 
 
 
