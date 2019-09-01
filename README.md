@@ -16,5 +16,7 @@ Some Images of our dataset:
 I build a model of artificial neural network and then train it on our dataset. It successfully trained with a very good accuracy of 75-80%.
 I test it on random images of validation set whenever I run the testing code which I write on "Test On validation Set" section It chooses random image from the validation set and predict the result.
 
+![rslt1](https://user-images.githubusercontent.com/38391132/64078295-59aa5d80-ccf2-11e9-97af-2ee0ee29c27a.PNG)
+![rslt](https://user-images.githubusercontent.com/38391132/64078333-e9e8a280-ccf2-11e9-9dc6-bee20a17ad3e.PNG)
 
 
