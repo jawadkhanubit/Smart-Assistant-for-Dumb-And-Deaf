@@ -13,10 +13,20 @@ Some Images of our dataset:
 
 ![Capture](https://user-images.githubusercontent.com/38391132/64076213-63749680-ccdb-11e9-9ad3-ecc1477621fc.JPG)
 
+# Model
+
 I build a model of artificial neural network and then train it on our dataset. It successfully trained with a very good accuracy of 75-80%.
 I test it on random images of validation set whenever I run the testing code which I write on "Test On validation Set" section It chooses random image from the validation set and predict the result.
 
+# Result
+
 ![rslt1](https://user-images.githubusercontent.com/38391132/64078295-59aa5d80-ccf2-11e9-97af-2ee0ee29c27a.PNG)
 ![rslt](https://user-images.githubusercontent.com/38391132/64078333-e9e8a280-ccf2-11e9-9dc6-bee20a17ad3e.PNG)
+
+# Text to Speach
+
+Model predicted the result in text and then I convert this text into Speach
+
+
 
 
