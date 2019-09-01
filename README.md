@@ -7,7 +7,7 @@ This System get their gesture or sign and speak what they want to tell.
 
 
 # DataSet
-Data is so precious in Machine Learning and Deep Learning without data we can’t do any thing so first of all we develop our own data set it’s a very difficult task by taking images in a huge quantity and extract just sign from these images we spend a huge time in developing data set for our model. Our data set contain 300 x 300 size images.
+Data is so precious in Machine Learning and Deep Learning without data we can’t do any thing so first of all we develop our own data set it’s a very difficult task by taking images in a huge quantity and extract just sign from these images we spend a lot of time in developing the dataset for our model. Our dataset contain 300x300 size images.
 
 Some Images of our dataset:
 
