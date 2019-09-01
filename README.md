@@ -25,7 +25,7 @@ I test it on random images of validation set whenever I run the testing code whi
 
 # Text to Speach
 
-Model predicted the result in text and then I convert this text into Speach
+Model predicted the result in text and then I convert this text into Speach by just playing the audio you can hear what the dumb and deaf person want to say by showing this gesture.
 
 ![gen speach](https://user-images.githubusercontent.com/38391132/64078517-12719c00-ccf5-11e9-9986-3aa56ca85158.JPG)
 
